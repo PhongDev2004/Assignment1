@@ -15,7 +15,8 @@ li {
 }
 
 #main {
-    background: rgba(0, 0, 0, 0) url(/images/abum/img_ass.jpg) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url(../images/abum/img_ass.jpg) repeat scroll 0 0;
+
 }
 
 body {
