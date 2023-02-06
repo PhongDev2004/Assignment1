@@ -35,6 +35,9 @@ body {
 
 .header {
     width: 100%;
+    position: sticky;
+    top: 0%;
+    z-index: 10;
 }
 
 /* custom css */
@@ -176,7 +179,7 @@ body {
     color: yellow;
 }
 
-.wrapper-menu .nav .menu-items .sub-nav li a{
+.wrapper-menu .nav .menu-items .sub-nav li a {
     color: #333;
     text-decoration: none;
 }
@@ -207,6 +210,7 @@ body {
 .wrapper-menu .nav .menu-items:hover .sub-nav {
     display: block;
 }
+
 /* end */
 
 
