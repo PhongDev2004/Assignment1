@@ -1,0 +1,12 @@
+.bgh-THPT .title {
+    margin-top: 25px;
+    padding-bottom: 16px;
+    text-align: center;
+    font-size: 20px;
+    color: #e71616;
+}
+
+.bgh-THPT>img {
+    margin: auto;
+    display: block;
+}

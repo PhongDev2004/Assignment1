@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    scroll-behavior: smooth;
 }
 
 p,
@@ -182,6 +183,7 @@ body {
 .wrapper-menu .nav .menu-items .sub-nav li a {
     color: #333;
     text-decoration: none;
+    display: block;
 }
 
 .wrapper-menu .nav .menu-items .sub-nav li:hover {
@@ -416,10 +418,8 @@ li.liAdvance {
 }
 
 .news-events .tintuc-sukien {
-    background: #59bf64;
     height: 30px;
     line-height: 30px;
-    padding-left: 20px;
 }
 
 .sukien {
