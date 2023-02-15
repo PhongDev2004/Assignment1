@@ -1,0 +1,49 @@
+.about-us .navigation {
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.about-us .navigation .icons-list-items-red {
+    padding: 0px 6px;
+    font-size: 7px;
+    color: red;
+}
+
+.about-us .navigation .items-navigation {
+    color: #666666;
+}
+
+.about-us .navigation .item-navigation {
+    font-size: 17px;
+}
+
+
+.pagination .pagination-main {
+    display: flex;
+    justify-content: flex-end;
+    margin: 25px 10px 0px 0px;
+}
+
+.pagination .page-item {
+    list-style-type: none;
+    padding: 4px 10px;
+    border: 1px solid #ccc;
+}
+
+.pagination .pagination-main li:first-child {
+    border-top-left-radius: 4px;
+}
+
+.pagination .pagination-main li:last-child {
+    border-top-right-radius: 4px;
+}
+
+.pagination .pagination-main .page-item-list {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.pagination .pagination-main .page-item .page-link>span {
+    color: #0d6efd;
+}

@@ -1,0 +1,17 @@
+.detail {
+    margin-bottom: 15px;
+}
+
+.title {
+    margin-top: 15px;
+    padding-left: 10px;
+    font-size: 19px;
+}
+
+.title-item .title-list-items {
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 25px;
+    padding: 0px 25px 15px 25px;
+    font-size: 18px;
+}
